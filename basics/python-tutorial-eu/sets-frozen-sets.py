@@ -36,7 +36,7 @@ colors.clear()
 print(colors)
 
 # Making a shallow copy
-more_cities = {"Winterthur","Schaffhausen","St. Gallen"}
+more_cities = {"Winterthur", "Schaffhausen", "St. Gallen"}
 backup_cities = more_cities.copy()
 more_cities.clear()
 print(more_cities)
